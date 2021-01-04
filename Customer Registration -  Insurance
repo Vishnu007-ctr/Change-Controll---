@@ -4,3 +4,8 @@ string address=c
 read a,b,c
 print d 
 print "customer Registration for insurance  is Sucessful ", d 
+// work on Adding Covid-19 Insurance Proposed by the client
+read a.b,c
+print e
+e=a,b,c
+print"Customer registration for covid -19  Insurance", e 
