@@ -1,6 +1,0 @@
-string custname=a
-int contactnum=b 
-string address=c
-read a,b,c
-print d 
-print "customer Registration for Covid-19 insurance  is Sucessful ", d 

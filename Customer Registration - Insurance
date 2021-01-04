@@ -1,0 +1,10 @@
+string custname=a
+int contactnum=b 
+string address=c
+read a,b,c
+print d 
+print "customer Registration for  insurance  is Sucessful ", d 
+// work on Adding Covid-19 insurance package and extend the validity as per change proposed by the clent
+read a,b,c
+print e 
+print " Customer Registration for Covid - 19  Insurance is sucessfull ",e 
